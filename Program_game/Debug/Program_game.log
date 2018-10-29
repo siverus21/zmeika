@@ -1,0 +1,4 @@
+﻿  Source.cpp
+g:\uu2\не_входить_нельзя\c++\program_game\source.cpp(119): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+g:\uu2\не_входить_нельзя\c++\program_game\source.cpp(156): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  Program_game.vcxproj -> G:\uu2\Не_входить_нельзя\c++\Program_game\Debug\Program_game.exe
